@@ -2,7 +2,6 @@ import os
 import glob
 import pyodbc
 import pandas as pd
-from DML import *
 from sqlalchemy import create_engine
 import urllib
 from sqlalchemy.sql import text
